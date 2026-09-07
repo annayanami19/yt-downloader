@@ -1,0 +1,6 @@
+# Dependency untuk YT DOWNLOAD — Unduh Video & Playlist YouTube
+# yt-dlp: library utama untuk mengunduh video tunggal / playlist / audio MP3 dari YouTube
+# (ffmpeg tidak perlu via pip — di-handle otomatis oleh script)
+yt-dlp
+# customtkinter: tampilan GUI modern untuk yt_gui.py
+customtkinter
